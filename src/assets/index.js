@@ -1,4 +1,5 @@
-import logo from "./asif-logo.png";
+import logo from "./logo.svg";
+import asiflogo from "./tech/asif-logo.png"
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -25,7 +26,6 @@ import contentful from "./tech/contentful.svg"
 import ado from "./tech/ado.png"
 import aem from "./tech/aem.svg"
 
-
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -37,6 +37,7 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  asiflogo,
   backend,
   creator,
   mobile,

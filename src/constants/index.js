@@ -4,21 +4,16 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   bootstrap,
   reactjs,
   contentful,
-  redux,
   tailwind,
-  nodejs,
-  mongodb,
   ado,
   aem,
   git,
   figma,
-  docker,
   meta,
   starbucks,
   tesla,
@@ -46,19 +41,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "UI Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "FrontEnd Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Accessibility Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Content Manager",
     icon: creator,
   },
 ];
