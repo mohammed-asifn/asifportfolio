@@ -4,17 +4,16 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
+  bootstrap,
   reactjs,
-  redux,
+  contentful,
   tailwind,
-  nodejs,
-  mongodb,
+  ado,
+  aem,
   git,
   figma,
-  docker,
   meta,
   starbucks,
   tesla,
@@ -73,28 +72,24 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Bootstrap",
+    icon: bootstrap,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Contentful CMS",
+    icon: contentful,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Adobe Experience Manager",
+    icon: aem,
   },
   {
     name: "Three JS",
@@ -109,18 +104,18 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Azure Devops",
+    icon: ado,
   },
 ];
 
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "LTIMindtree",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "May 2022 - Current",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
