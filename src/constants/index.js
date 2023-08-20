@@ -111,7 +111,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
+    title: "Senior Software Engineer",
     company_name: "LTIMindtree",
     icon: starbucks,
     iconBg: "#383E56",
